@@ -10,3 +10,5 @@ matplotlib
 seaborn
 wordcloud
 dvclive
+dvc[s3]
+awscli
