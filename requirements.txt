@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+scikit-learn
+pydantic
+numpy
+pandas
+dvc
+nltk
+matplotlib
+seaborn
+wordcloud
+dvclive

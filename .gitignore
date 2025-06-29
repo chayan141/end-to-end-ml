@@ -1,3 +1,10 @@
+end-to-end-ml/src/data/
+end-to-end-ml/src/models/
+end-to-end-ml/src/reports/
+end-to-end-ml/src/logs/
+end-to-end-ml/src/logs/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
