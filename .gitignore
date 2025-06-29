@@ -1,8 +1,12 @@
-end-to-end-ml/src/data/
-end-to-end-ml/src/models/
-end-to-end-ml/src/reports/
-end-to-end-ml/src/logs/
-end-to-end-ml/src/logs/
+data
+models
+reports
+
+/src/data/
+/src/models/
+/src/reports/
+/src/logs/
+
 
 
 # Byte-compiled / optimized / DLL files
